@@ -2,7 +2,7 @@
 
 This repo hosts the surface region correspondence evaluation dataset consisting of mulitple surface region ground truths for 3 object categories - Chair, Car and Plane.
 
-Each object category has 10 objects with each object having 8 different ground truth surface regions. 
+Each object category has 10 objects with each object having 8 different ground truth surface regions. Providing 90 pairwise correspondence estimation possibility per category, with 8 region correspondences estimations in each pair. 
 
 Sample images of surface region ground truths below:
 
