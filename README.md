@@ -16,3 +16,5 @@ Sample images of surface region ground truths below:
 NOTE1: This work is in ICRA conference submission. If accepted, after the review process, more code (data loaders and pretrained models), and details will follow - subject to approaval from the organization. 
 
 NOTE2: This is a growing dataset and more objects categories and corresponding surface regions will be added gradually. Currently working on table object surface correspondence with improved NRDF, and preforming realworld robotic execution. This work is in processing for European Robotics Forum (ERF) 2024. Videos and table dataset will be uploaded soon...
+
+<img src="https://github.com/aprath1/bsrc/assets/88531660/96fe6dd1-180f-4275-b5a1-b884966a27e9"  width="400" height="600">
