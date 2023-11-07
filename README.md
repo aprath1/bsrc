@@ -17,4 +17,11 @@ NOTE1: This work is in ICRA conference submission. If accepted, after the review
 
 NOTE2: This is a growing dataset and more objects categories and corresponding surface regions will be added gradually. Currently working on table object surface correspondence with improved NRDF, and preforming realworld robotic execution. This work is in processing for European Robotics Forum (ERF) 2024. Videos and table dataset will be uploaded soon...
 
+
+## Real world Process Execution with improved NRDF correspondence estimations
+Video on real world execution of robotic table surface polishing based on improved NRDF correspondence estimations - https://youtu.be/uiAlSYvcChc
+
+The video demonstrates the transfer of process knowledge from a reference region of interest on a reference table object to an unseen target table object. We use the IKEA 550 table as the unseen target object.
+
+
 <img src="https://github.com/aprath1/bsrc/assets/88531660/96fe6dd1-180f-4275-b5a1-b884966a27e9"  width="400" height="600">
